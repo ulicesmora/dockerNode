@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: todo-site
-          image: ulicesmora/dockerNode
+          image: ulicesmora/dockernode
           imagePullPolicy: Always
 ---
 apiVersion: v1
